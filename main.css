@@ -1,0 +1,179 @@
+
+#btn-tweet{
+    background-color:rgb(70, 146, 244)
+}
+#btn-tweet-2{
+    background-color:rgb(70, 146, 244);
+    border-radius: 50px;
+    width:90px
+}
+#row-1{
+border-left: 10px;
+}
+.left-list{
+    margin-left: 120px;
+}
+#list-left{
+    text-align:left;
+
+
+}
+#item{
+    padding: 12px 0 12px 0;
+    font-weight:600;
+}
+
+#btn-tweet{
+    border-radius: 100px;
+    padding: 5px 60px 5px 60px;
+    margin-right: 120px;
+}
+.left-user-icon{
+    float: left;
+}
+.left-bottom{
+    margin: 540px 130px 0 0;
+    padding-left: 30px;
+}
+
+.user-tag{
+    display: inline-block;
+    padding:0 20px 0 0;
+}
+#user-nm{
+    font-size: 14px;
+    margin-bottom:0;
+}
+#user-hnd{
+    color: rgb(83, 81, 81);
+}
+
+/* end of left section */
+
+/* middle section */
+#middle-container{
+    border-style:solid;
+    border-width: 1px;
+    border-color: rgb(239, 240, 241);
+}
+.rectangle-top{
+    
+    width: 389px;
+}
+#home{
+    text-align: left;
+}
+.middle-icons{
+    margin-right: 200px;
+}
+#img-6{
+    display: inline-block;
+}
+#form-6{
+    display: inline-block;
+    padding-right: 70px;
+    
+}
+#form-6b{
+    border: 0px;
+    margin-right: 40px;
+   
+    
+}
+.middle-icons{
+    display: inline-block;
+
+}
+/* end of middle section */
+
+
+
+
+/* right section */
+#search{
+    margin-right:150px;
+    margin-top: 5px; 
+    padding-right:80px;
+    padding-left:40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color:rgba(239, 241, 246, 0.842);
+    border-radius: 100px;
+    border:0;
+}
+.news-box{
+    text-align: left;
+    margin-top:15px;
+    margin-bottom: 20px;
+    padding-top:10px;
+    padding-left:10px;
+    padding-right:10px;
+    background-color: rgb(244, 246, 250);
+    border-radius: 20px;
+    width: 320px;
+}
+.news-inner-right{
+    display: inline-block;
+}
+.Who-to-follow{
+    background-color: rgb(244, 246, 250);
+    border-radius: 20px;
+    width: 320px;
+    
+    
+}
+.user-1{
+    text-align: left;
+    
+}
+.user-2{
+    text-align: left;
+}
+
+.user-3{
+    text-align: left;
+
+}
+#h6{
+    text-align: left;
+    margin-left:15px;
+    padding-top:10px;
+}
+#h5{
+    font-size: 15px;
+    margin-bottom: 0;
+    display: inline-block;
+}
+#p5{
+    font-size: 12px;
+    color: rgb(111, 114, 116);
+
+    
+}
+.btn-dark{
+    display: inline-block;
+    align-items:flex-end;
+    border-radius: 50px;
+
+}
+#link{
+    margin-right: 200px;
+    text-decoration: none;
+    
+}
+#p6{
+    margin-top: 5px;
+    font-size: 12px;
+    color: rgb(111, 114, 116);
+    margin-bottom: 5px;
+    text-align: left;
+}
+#pol{
+    color: rgb(111, 114, 116);
+    font-size: 12px;
+    margin-bottom: 2px;
+
+}
+#btn-2{
+    margin-right:40px;
+}
